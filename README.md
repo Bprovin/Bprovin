@@ -45,7 +45,7 @@
 <td width="40%" align="center" valign="middle">
 
 <!-- COLOQUE SUA IMAGEM AQUI -->
-<img src="assets/avatar.png" width="250" alt="Meu avatar" />
+<img src="Avatar.png" width="250" alt="Meu avatar" />
 
 </td>
 <td width="60%" valign="middle">
