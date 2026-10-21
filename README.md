@@ -39,31 +39,21 @@
 <!-- SOBRE MIM -->
 <h2 align="center">⌘ Sobre mim</h2>
 
-<table>
-<tr>
-<td width="40%" align="center" valign="middle">
+<div align="center">
+  <img src="Avatar.png" width="280" alt="Avatar da Bruna" align="left" />
 
-<!-- COLOQUE SUA IMAGEM AQUI -->
-<img src="Avatar.png" width="250" alt="Meu avatar" />
+  <h3>Olá! 👋</h3>
 
-</td>
-<td width="60%" valign="middle">
+  <p>
+   Sou Bruna Provin, estudante de Engenharia de Software e apaixonada por tecnologia e inovação. Atualmente, estou desenvolvendo meus conhecimentos em programação e explorando diferentes tecnologias para criar projetos que transformem ideias em soluções reais. 🚀
 
-### Olá! 👋
+Gosto de aprender coisas novas, enfrentar desafios e aprimorar minhas habilidades a cada projeto. Meu objetivo é crescer profissionalmente na área de desenvolvimento de software, construir aplicações úteis e evoluir continuamente como desenvolvedora. 💜
 
-Sou **Bruna Provin**, [estudante/desenvolvedor(a)] apaixonado(a) por tecnologia.
+Acredito que cada linha de código é uma oportunidade de aprender, criar e ir além. ✨
+  </p>
+</div>
 
-- 🎓 Atualmente estudando Engenharia de Software.
-- 💻 Aprendendo [SUAS TECNOLOGIAS].
-- 🚀 Desenvolvendo projetos para praticar minhas habilidades.
-- 🎯 Meu objetivo é [SEU OBJETIVO].
-- 📚 Sempre buscando aprender algo novo.
-
-</td>
-</tr>
-</table>
-
----
+<br clear="left"/>
 
 <!-- PROJETOS
 <h2 align="center">⌘ Projetos em destaque</h2>
@@ -81,11 +71,12 @@ Sou **Bruna Provin**, [estudante/desenvolvedor(a)] apaixonado(a) por tecnologia.
 
 <div align="center">  -->
 
-<!-- TROQUE PELO SEU GIF  -->
-<img src="assets/hobby.gif" width="180" alt="Meu hobby" />
+<!-- TROQUE PELO SEU GIF  
+<img src="assets/hobby.gif" width="180" alt="Meu hobby" />-->
 
 <br/> 
 
+<div align="center">
 🌙 Aprender • 💜 Criar • 🚀 Evoluir
 
 *"O melhor projeto é aquele que nos ensina algo novo."*
