@@ -6,7 +6,7 @@
 
 <!-- TEXTO ANIMADO -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+[SEU+NOME]!;Desenvolvedor(a)+em+forma%C3%A7%C3%A3o;Bem-vindo(a)+ao+meu+perfil!" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Bruna+Provin!;Desenvolvedor(a)+em+forma%C3%A7%C3%A3o;Bem-vindo(a)+ao+meu+perfil!" alt="Texto animado" />
 </a>
 
 <br/>
@@ -24,7 +24,6 @@
 
 </div>
 
----
 
 <!-- TECNOLOGIAS -->
 <h2 align="center">⌘ Tecnologias</h2>
@@ -66,7 +65,7 @@ Sou **Bruna Provin**, [estudante/desenvolvedor(a)] apaixonado(a) por tecnologia.
 
 ---
 
-<!-- PROJETOS -->
+<!-- PROJETOS
 <h2 align="center">⌘ Projetos em destaque</h2>
 
 <div align="center">
@@ -75,17 +74,17 @@ Sou **Bruna Provin**, [estudante/desenvolvedor(a)] apaixonado(a) por tecnologia.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=SEU-REPOSITORIO&bg_color=0D0718&title_color=C084FC&text_color=E9D5FF&icon_color=A78BFA&hide_border=true" />
 </a>
 
-</div>
+</div>  -->
 
-<!-- HOBBIES -->
+<!-- HOBBIES
 <h2 align="center">⌘ Hobbies & objetivos</h2>
 
-<div align="center">
+<div align="center">  -->
 
-<!-- TROQUE PELO SEU GIF -->
+<!-- TROQUE PELO SEU GIF  -->
 <img src="assets/hobby.gif" width="180" alt="Meu hobby" />
 
-<br/>
+<br/> 
 
 🌙 Aprender • 💜 Criar • 🚀 Evoluir
 
